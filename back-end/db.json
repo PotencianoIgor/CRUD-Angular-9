@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": "5.90"
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "name": "Mesa Gamer",
+      "price": "1913.99",
+      "id": 3
+    },
+    {
+      "name": "Produto de Teste",
+      "price": 125.95,
+      "id": 5
+    },
+    {
+      "name": "Veio do Form",
+      "price": "9.99",
+      "id": 6
+    },
+    {
+      "name": "Caneta BIC Preta",
+      "price": "560",
+      "id": 7
+    },
+    {
+      "name": "Caneta BIC Pretacxzcvxv",
+      "price": "5.90",
+      "id": 8
+    }
+  ]
+}
